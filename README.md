@@ -27,7 +27,7 @@ Designed originally for **Lian Li Uni Fan** controllers, this tool allows you to
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Universal-USB-RGB-Controller.git](https://github.com/YOUR_USERNAME/Universal-USB-RGB-Controller.git)
+git clone [https://github.com/aarush-salgania/Open-LianLi-RGB-Driver.git](https://github.com/aarush-salgania/Open-LianLi-RGB-Driver.git)
 cd Universal-USB-RGB-Controller
 
 ```
